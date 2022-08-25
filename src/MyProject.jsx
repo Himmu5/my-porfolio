@@ -9,7 +9,7 @@ export default function MyProject({photo}) {
         className="rounded-xl sm:w-1/2"
       />
       <div className="p-3 sm:pl-4 sm:pr-4 sm:pb-4 sm:pt-0 space-y-3 ">
-        <h1 className="font-bold text-2xl">Creating responsive UI</h1>
+        <h1 className="font-bold text-2xl ">Creating responsive UI</h1>
         <p className="">
           Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto nihil quos quisquam inventore ipsum. Est natus odit vero quo beatae dolorem adipisci minus consectetur velit voluptas inventore suscipit provident dolore aspernatur qui, ullam possimus reprehenderit earum error sint soluta eos? Quo ut veritatis, deleniti quas quidem consectetur explicabo rem sequi.
         </p>

@@ -8,7 +8,7 @@ import MyskillNew from "./MyskillNew";
 
 function App() {
   return (
-    <div className="bg-orange-200">
+    <div className="bg-gray-200">
       <Nav />
       <MyName />
       <MyskillNew />

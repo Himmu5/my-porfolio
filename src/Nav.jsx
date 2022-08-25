@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function Nav() {
   return (
-    <div className='flex justify-between h-20 p-2 bg-red-300 text-white'>
+    <div className='flex justify-between h-20 p-2 bg-blue-400 text-white'>
         <div>
           
         </div>
